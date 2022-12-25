@@ -1,0 +1,10 @@
+theme: jekyll-theme-architect
+
+# Setup
+name:         Hello CB
+tagline:      ChironBuilds.com
+baseurl:      ""
+locale:       "en"
+
+title: ChironBuilds.com
+description: [Hello CB]
